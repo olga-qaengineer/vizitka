@@ -1,3 +1,4 @@
-# cv_test
+# olga-qaengineer
 
-Сайт-визика на HTML + CSS + JS
+Сайт визитка на html и css
+
